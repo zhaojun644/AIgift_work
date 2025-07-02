@@ -1,0 +1,4 @@
+name,description,price,stock,tags
+Widget A,First product,9.99,100,gadget
+Widget B,Second product,19.99,50,"gadget,home"
+Gizmo,Third product,5.49,200,tool
